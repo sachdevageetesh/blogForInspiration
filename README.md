@@ -5,8 +5,6 @@
 A curated list of product management advice from frameworks, interviews, experts, resources, books, products, career preps, and much more.
 The list is divided into cores such as product management, resources, interviews, case Studies, sample products/projects, communities, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution.
 
-Notable contributions to the list are featured in section, [Special Thanks](#special-thanks)
-
 
 ## Content
 - [Core 1: Product Management](#core-1-product-management)
@@ -534,28 +532,5 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Amazon](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management) - Amazon's culture
 - [ ] [Facebook](https://www.quora.com/What-does-a-Product-Manager-at-Facebook-do) - Facebook PM Culture
 
-# Top Product Managers
-- [ ] [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google.
-- [ ] [Josh Elman](https://twitter.com/joshelman) - Partner, @GreylockVC: @Medium, @Jelly, @AppMeerkat, @Operator, @discordapp @Nextdoor.
-- [ ] [Hunter Walk](https://twitter.com/hunterwalk) - @homebrew, Seed Stage Venture Fund w @satyap. Made products at YouTube, Google & SecondLife.
-- [ ] [Ian McAllister](https://twitter.com/ianmcall) - Director of Product at Airbnb. Former Amazon and founder of @AmazonSmile.
-- [ ] [Marty Cagan](https://twitter.com/cagan) - I'm a partner at Silicon Valley Product Group, specializing in product teams and product strategy
-- [ ] [Ellen Chisa](https://twitter.com/ellenchisa) - VP Product for http://lolatravel.com , temporary @harvardhbs dropout.
-- [ ] [Jackie Bavaro](https://twitter.com/jackiebo) - Asana Product Manager. Co-Author of Cracking the PM Interview. Previously @ Google & Microsoft
-- [ ] [Fernando Delgado](https://www.linkedin.com/in/fernandodelgado/) - Sr. Product Manager at Google. Previously worked as an Entrepreneur, Product Management Coach, and Sr Director of Product Management at Yahoo.
-- [ ] [Julie Zhuo](https://twitter.com/joulee) - Product design VP @ Facebook.
-- [ ] [Joel Spolsky](https://twitter.com/spolsky) - CEO of Stack Overflow, co-founder of Fog Creek Software (FogBugz, Kiln), and creator of Trello.
-- [ ] [Bruce McCarthy](https://twitter.com/d8a_driven) - Innovator, consultant, coach, and evangelist for better products and product development
-- [ ] [Des Traynor](https://twitter.com/destraynor) - Co-founder of @intercom.
-- [ ] [Sachin Rekhi](https://twitter.com/sachinrekhi) - Entrepreneur, Product Guy, and Software Engineer.  
-- [ ] [Adam Nash](https://twitter.com/adamnash) - CEO @Wealthfront
-- [ ] [Rich Mironov](https://twitter.com/RichMironov) - Tech start-up veteran, product exec/coach/mentor, writer (Art of Product Management)
-- [ ] [Eric Ries](https://twitter.com/ericries) - Trying to change how startups are built.
-- [ ] [Steven Sinofsky](https://twitter.com/stevesi) - Board Partner @a16z • Adviser @BoxHQ • Writings @ Learning by Shipping
-- [ ] [Janna Bastow](https://twitter.com/simplybastow) - Co-Founder of MTP/CEO at ProdPad/CoFounder ProductTank and ProductCamp London
-- [ ] [Martin Eriksson](https://twitter.com/bfgmartin) - Co-Founder at MTP/ProductTank
-- [ ] [Simon Cast](https://twitter.com/simoncast) - Co Founder MTP/ProductTank/ProdPad
-- [ ] [Charunethran Panchalam Govindarajan](https://twitter.com/charupg) - Product Manager, Intel / Social Entrepreneur / Tech Enthusiast 
 
-# Special Thanks
 - Special Thanks to [Paul Cothenet](http://attackwithnumbers.com) for providing the Base of Core 1: Product Management
