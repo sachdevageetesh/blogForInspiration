@@ -1,8 +1,6 @@
-"# Blog" 
+
 <img src="https://raw.githubusercontent.com/sachdevageetesh/blog/master/Banner.png">
 
-
-# Geetesh
 ## About
 A curated list of product management advice from frameworks, interviews, experts, resources, books, products, career preps, and much more.
 The list is divided into cores such as product management, resources, interviews, case Studies, sample products/projects, communities, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution.
@@ -561,14 +559,3 @@ and deliver behavior-based engagement every step of the way.
 
 # Special Thanks
 - Special Thanks to [Paul Cothenet](http://attackwithnumbers.com) for providing the Base of Core 1: Product Management
-
-# Contributing to the list
-- [See the guide](https://github.com/tron1991/open-product-management/blob/master/CONTRIBUTING.md)
-
-# License
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>
-
-To the extent possible under law, [Nicholas Ivanecky](https://github.com/tron1991) has waived all copyright and related or neighboring rights to this work.
