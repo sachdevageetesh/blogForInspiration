@@ -1,27 +1,14 @@
 "# Blog" 
-## I am trying to see how this works
+<img src="https://raw.githubusercontent.com/sachdevageetesh/blog/master/Banner.png">
 
 
-Copy Pasted stuff. Again. Not stealing, learning:
-
-<img src="https://raw.githubusercontent.com/tron1991/open-product-management/master/logo.png">
-
-# Open Product Management
+# Geetesh
 ## About
 A curated list of product management advice from frameworks, interviews, experts, resources, books, products, career preps, and much more.
-The list is divided into cores such as product management, resources, interviews, case Studies, sample products/projects, communities, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/tron1991/open-product-management/blob/master/CONTRIBUTING.md). Feel free to add products or links to help other product managers.
-
-This list was created for all product managers whether beginner or advanced to learn from the best people and communities. If you are a technical person looking to get into the role of a Product Manager, this advice below will help you along your path. This guide is by all means not the end all to your learning as the best learning is achieved through practice.
-
-Don't forget to share with others and follow me on Twitter, [Nicholas Ivanecky](http://twitter.com/ivantr0n). If you are looking for new product manager roles I suggest [ProductHired.com](http://producthired.com/)
+The list is divided into cores such as product management, resources, interviews, case Studies, sample products/projects, communities, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution.
 
 Notable contributions to the list are featured in section, [Special Thanks](#special-thanks)
 
-## How to Use
-Open-Product-Management is an amazing list for people who need a refresher in Product Management, so the best ways to use are:
-- Ask for help on [Twitter](https://twitter.com/ivantr0n)
-- Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword.
-- Go through our - [Content Menu](#content)
 
 ## Content
 - [Core 1: Product Management](#core-1-product-management)
