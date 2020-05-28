@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/sachdevageetesh/blog/master/Banner.png">
 
-## About
+## :zap: About
 A curated list of product management advice from frameworks, interviews, experts, resources, books, products, career preps, and much more.
 The list is divided into cores such as product management, resources, interviews, case Studies, sample products/projects, communities, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution.
 
